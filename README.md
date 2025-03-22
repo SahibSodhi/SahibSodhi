@@ -9,12 +9,12 @@ I'm a 25 y/o developer who just wants to explore everything in Tech. It may be o
 
 ### Here are my facts to be more clear:
 
-1. I’m currently working on Python3, C++, React, OSS development and other stuffs.
+1. I’m currently working on Java, React, OSS development and other stuff.
 2. I’m currently learning the basics of OSS, ML, Full-stack development using MERN, DevOps (if you think I'm polyglot, I'm not xD)
 3. I love to code and play games.
 4. Ask me about anything related to tech.
 5. How to reach me: Through Discord or through other platforms below.
 6. Pronouns: He/Him/His
 7. Fun fact: I don't ever care for those who hate me. One day, they'll turn to normal again.
-8. Languages: C++. Javascript, Python, SQL,Typescript, Go
+8. Languages: Java, Javascript, Typescript, React.js, Python
 9. Tools: VS Code, Sublime Text, Git Docker
