@@ -5,7 +5,7 @@ I'm Sahibdeep, IT Graduate, developer, nerd and gamer heart.. It's nice to meet 
 ![](https://media1.tenor.com/images/6dcd94c7c4bf4800648ef7cbe0113c33/tenor.gif?itemid=11820295)
 
 ### Who am I?
-I'm a 25 y/o developer who just wants to explore everything in Tech. It may be of Cloud, Algo or something. Other than that, I'm a part time gamer (well, not PRO exactly smile)
+I'm a 27 y/o developer who just wants to explore everything in Tech. It may be of Cloud, Algo or something. Other than that, I'm a part time gamer (well, not PRO exactly smile)
 
 ### Here are my facts to be more clear:
 
