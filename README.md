@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Sahibdeep, IT Graduate, developer, nerd and gamer heart.. It's nice to meet you all! wavewave
+I'm Sahibdeep, IT Graduate, developer, nerd and gamer heart.. It's nice to meet you all!
 
 ![](https://media1.tenor.com/images/6dcd94c7c4bf4800648ef7cbe0113c33/tenor.gif?itemid=11820295)
 
