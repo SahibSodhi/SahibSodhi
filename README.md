@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Sahibdeep, IT Graduate, developer, nerd and gamer heart.. It's nice to meet you all!
+I'm a Senior Software Developer with 5 years of experience in building scalable backend systems using Java, Spring Boot, Microservices, Reactjs, and Cloud technologies.
 
 ![](https://media1.tenor.com/images/6dcd94c7c4bf4800648ef7cbe0113c33/tenor.gif?itemid=11820295)
 
@@ -10,7 +10,7 @@ I'm a 27 y/o developer who just wants to explore everything in Tech. It may be o
 ### Here are my facts to be more clear:
 
 1. I’m currently working on Java, React, OSS development and other stuff.
-2. I’m currently learning the basics of OSS, ML, Full-stack development using MERN, DevOps (if you think I'm polyglot, I'm not xD)
+2. I’m currently learning the basics of OSS, ML, Full-stack development using MERN, DevOps
 3. I love to code and play games.
 4. Ask me about anything related to tech.
 5. How to reach me: Through Discord or through other platforms below.
